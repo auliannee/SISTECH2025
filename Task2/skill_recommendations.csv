@@ -1,0 +1,916 @@
+source_skill,recommended_skill,similarity_score,rank
+Git (Version Control System),Version Control,0.7441,1
+Git (Version Control System),Project Controls,0.2399,2
+Git (Version Control System),Threat Modeling,0.0,3
+Git (Version Control System),Quality Management,0.0,4
+Git (Version Control System),Engineering Management,0.0,5
+Threat Modeling,Threat Management,0.3297,1
+Threat Modeling,Predictive Modeling,0.2892,2
+Threat Modeling,Cyber Threat Intelligence,0.2295,3
+Threat Modeling,Large Language Modeling,0.2236,4
+Threat Modeling,Git (Version Control System),0.0,5
+Quality Management,Data Quality,0.3561,1
+Quality Management,Quality Assessment,0.3297,2
+Quality Management,Project Management,0.199,3
+Quality Management,Engineering Management,0.1756,4
+Quality Management,Configuration Management,0.1724,5
+Engineering Management,Prompt Engineering,0.2789,1
+Engineering Management,Feature Engineering,0.2789,2
+Engineering Management,Search Engine Marketing,0.2266,3
+Engineering Management,Search Engine Optimization,0.2207,4
+Engineering Management,Project Management,0.205,5
+Process Optimization,Search Engine Optimization,0.2536,1
+Process Optimization,Continuous Improvement Process,0.2363,2
+Process Optimization,Git (Version Control System),0.0,3
+Process Optimization,Threat Modeling,0.0,4
+Process Optimization,Quality Management,0.0,5
+Information Architecture,Information Systems Security,0.3348,1
+Information Architecture,Network Architecture,0.3323,2
+Information Architecture,Git (Version Control System),0.0,3
+Information Architecture,Threat Modeling,0.0,4
+Information Architecture,Quality Management,0.0,5
+Generative AI,Generative AI Agents,0.7441,1
+Generative AI,AI Personalization,0.2919,2
+Generative AI,Git (Version Control System),0.0,3
+Generative AI,Threat Modeling,0.0,4
+Generative AI,Quality Management,0.0,5
+Network Protocols,Network Security,0.2524,1
+Network Protocols,Computer Networking,0.2478,2
+Network Protocols,Network Architecture,0.2366,3
+Network Protocols,Network Troubleshooting,0.2301,4
+Network Protocols,Artificial Neural Networks,0.1776,5
+IT Infrastructure,Cloud Infrastructure,0.5575,1
+IT Infrastructure,Infrastructure as Code (IaC),0.4006,2
+IT Infrastructure,Git (Version Control System),0.0,3
+IT Infrastructure,Threat Modeling,0.0,4
+IT Infrastructure,Quality Management,0.0,5
+Interactive Data Visualization,Data Visualization,0.701,1
+Interactive Data Visualization,Data Visualization Software,0.5214,2
+Interactive Data Visualization,Data Analysis,0.1492,3
+Interactive Data Visualization,Data Security,0.1451,4
+Interactive Data Visualization,Data Quality,0.1381,5
+Backlogs,Git (Version Control System),0.0,1
+Backlogs,Threat Modeling,0.0,2
+Backlogs,Quality Management,0.0,3
+Backlogs,Engineering Management,0.0,4
+Backlogs,Process Optimization,0.0,5
+Data Analysis,Exploratory Data Analysis,0.6941,1
+Data Analysis,Analysis,0.5669,2
+Data Analysis,Statistical Analysis,0.2894,3
+Data Analysis,Regression Analysis,0.2797,4
+Data Analysis,Requirements Analysis,0.272,5
+Bash (Scripting Language),Scripting,0.4266,1
+Bash (Scripting Language),Large Language Modeling,0.1838,2
+Bash (Scripting Language),Git (Version Control System),0.0,3
+Bash (Scripting Language),Threat Modeling,0.0,4
+Bash (Scripting Language),Quality Management,0.0,5
+Microsoft Windows,Git (Version Control System),0.0,1
+Microsoft Windows,Threat Modeling,0.0,2
+Microsoft Windows,Quality Management,0.0,3
+Microsoft Windows,Engineering Management,0.0,4
+Microsoft Windows,Process Optimization,0.0,5
+Spreadsheet Software,Tableau Software,0.219,1
+Spreadsheet Software,Productivity Software,0.219,2
+Spreadsheet Software,Machine Learning Software,0.1984,3
+Spreadsheet Software,Data Visualization Software,0.1875,4
+Spreadsheet Software,Package and Software Management,0.177,5
+Team Management,Team Building,0.3407,1
+Team Management,Project Management,0.1947,2
+Team Management,Engineering Management,0.1718,3
+Team Management,Configuration Management,0.1687,4
+Team Management,Quality Management,0.1668,5
+Solution Design,Business Solutions,0.3352,1
+Solution Design,Design Reviews,0.2497,2
+Solution Design,User Experience Design,0.2015,3
+Solution Design,Figma (Design Software),0.198,4
+Solution Design,Responsive Web Design,0.1965,5
+Python Programming,Programming Principles,0.2581,1
+Python Programming,Loyalty Programs,0.2581,2
+Python Programming,Object Oriented Programming (OOP),0.1637,3
+Python Programming,Git (Version Control System),0.0,4
+Python Programming,Threat Modeling,0.0,5
+Applied Machine Learning,Machine Learning,0.6618,1
+Applied Machine Learning,Machine Learning Software,0.4678,2
+Applied Machine Learning,Machine Learning Algorithms,0.447,3
+Applied Machine Learning,Machine Learning Methods,0.438,4
+Applied Machine Learning,Scikit Learn (Machine Learning Library),0.3771,5
+LinkedIn,Git (Version Control System),0.0,1
+LinkedIn,Threat Modeling,0.0,2
+LinkedIn,Quality Management,0.0,3
+LinkedIn,Engineering Management,0.0,4
+LinkedIn,Process Optimization,0.0,5
+Quality Assessment,Quality Management,0.3297,1
+Quality Assessment,Data Quality,0.3265,2
+Quality Assessment,Vulnerability Assessments,0.2969,3
+Quality Assessment,Needs Assessment,0.2892,4
+Quality Assessment,Git (Version Control System),0.0,5
+Artificial Intelligence and Machine Learning (AI/ML),Artificial Intelligence,0.5863,1
+Artificial Intelligence and Machine Learning (AI/ML),Machine Learning,0.4737,2
+Artificial Intelligence and Machine Learning (AI/ML),Machine Learning Software,0.3348,3
+Artificial Intelligence and Machine Learning (AI/ML),Machine Learning Algorithms,0.3199,4
+Artificial Intelligence and Machine Learning (AI/ML),Machine Learning Methods,0.3135,5
+E-Commerce,Git (Version Control System),0.0,1
+E-Commerce,Threat Modeling,0.0,2
+E-Commerce,Quality Management,0.0,3
+E-Commerce,Engineering Management,0.0,4
+E-Commerce,Process Optimization,0.0,5
+Classification And Regression Tree (CART),Regression Analysis,0.2114,1
+Classification And Regression Tree (CART),Decision Tree Learning,0.1598,2
+Classification And Regression Tree (CART),Git (Version Control System),0.0,3
+Classification And Regression Tree (CART),Threat Modeling,0.0,4
+Classification And Regression Tree (CART),Quality Management,0.0,5
+Debugging,Git (Version Control System),0.0,1
+Debugging,Threat Modeling,0.0,2
+Debugging,Quality Management,0.0,3
+Debugging,Engineering Management,0.0,4
+Debugging,Process Optimization,0.0,5
+Taking Meeting Minutes,Git (Version Control System),0.0,1
+Taking Meeting Minutes,Threat Modeling,0.0,2
+Taking Meeting Minutes,Quality Management,0.0,3
+Taking Meeting Minutes,Engineering Management,0.0,4
+Taking Meeting Minutes,Process Optimization,0.0,5
+Business Correspondence,Business Ethics,0.284,1
+Business Correspondence,Business Solutions,0.284,2
+Business Correspondence,Git (Version Control System),0.0,3
+Business Correspondence,Threat Modeling,0.0,4
+Business Correspondence,Quality Management,0.0,5
+Machine Learning Software,Machine Learning,0.7069,1
+Machine Learning Software,Machine Learning Algorithms,0.4774,2
+Machine Learning Software,Machine Learning Methods,0.4678,3
+Machine Learning Software,Applied Machine Learning,0.4678,4
+Machine Learning Software,Scikit Learn (Machine Learning Library),0.4028,5
+Data Validation,Data Analysis,0.1908,1
+Data Validation,Data Visualization,0.1871,2
+Data Validation,Data Security,0.1856,3
+Data Validation,Data Quality,0.1767,4
+Data Validation,Data Ethics,0.173,5
+Data Security,Computer Security,0.2788,1
+Data Security,Network Security,0.2724,2
+Data Security,Cloud Security,0.2664,3
+Data Security,Application Security,0.2573,4
+Data Security,Information Systems Security,0.2573,5
+Network Architecture,Information Architecture,0.3323,1
+Network Architecture,Network Security,0.2596,2
+Network Architecture,Computer Networking,0.2549,3
+Network Architecture,Network Protocols,0.2366,4
+Network Architecture,Network Troubleshooting,0.2366,5
+Complex Problem Solving,Git (Version Control System),0.0,1
+Complex Problem Solving,Threat Modeling,0.0,2
+Complex Problem Solving,Quality Management,0.0,3
+Complex Problem Solving,Engineering Management,0.0,4
+Complex Problem Solving,Process Optimization,0.0,5
+GitHub,Git (Version Control System),0.0,1
+GitHub,Threat Modeling,0.0,2
+GitHub,Quality Management,0.0,3
+GitHub,Engineering Management,0.0,4
+GitHub,Process Optimization,0.0,5
+Continuous Improvement Process,Process Optimization,0.2363,1
+Continuous Improvement Process,Git (Version Control System),0.0,2
+Continuous Improvement Process,Threat Modeling,0.0,3
+Continuous Improvement Process,Quality Management,0.0,4
+Continuous Improvement Process,Engineering Management,0.0,5
+Computer Security,Computer Security Incident Management,0.6247,1
+Computer Security,Computer Networking,0.2987,2
+Computer Security,Cloud Computing,0.2923,3
+Computer Security,Data Security,0.2788,4
+Computer Security,Computer Hardware,0.275,5
+Artificial Neural Networks,Artificial Intelligence,0.2369,1
+Artificial Neural Networks,Network Security,0.1948,2
+Artificial Neural Networks,Computer Networking,0.1912,3
+Artificial Neural Networks,Network Architecture,0.1826,4
+Artificial Neural Networks,Network Protocols,0.1776,5
+ChatGPT,Git (Version Control System),0.0,1
+ChatGPT,Threat Modeling,0.0,2
+ChatGPT,Quality Management,0.0,3
+ChatGPT,Engineering Management,0.0,4
+ChatGPT,Process Optimization,0.0,5
+Timelines,Git (Version Control System),0.0,1
+Timelines,Threat Modeling,0.0,2
+Timelines,Quality Management,0.0,3
+Timelines,Engineering Management,0.0,4
+Timelines,Process Optimization,0.0,5
+Cyber Threat Intelligence,Threat Management,0.2503,1
+Cyber Threat Intelligence,Cyber Attacks,0.2424,2
+Cyber Threat Intelligence,Artificial Intelligence,0.2362,3
+Cyber Threat Intelligence,Threat Modeling,0.2295,4
+Cyber Threat Intelligence,Artificial Intelligence and Machine Learning (AI/ML),0.1385,5
+Rmarkdown,Git (Version Control System),0.0,1
+Rmarkdown,Threat Modeling,0.0,2
+Rmarkdown,Quality Management,0.0,3
+Rmarkdown,Engineering Management,0.0,4
+Rmarkdown,Process Optimization,0.0,5
+Network Security,Data Security,0.2724,1
+Network Security,Computer Networking,0.2719,2
+Network Security,Computer Security,0.2659,3
+Network Security,Network Architecture,0.2596,4
+Network Security,Cloud Security,0.2541,5
+Project Management Life Cycle,Project Management,0.5297,1
+Project Management Life Cycle,Agile Project Management,0.3578,2
+Project Management Life Cycle,Milestones (Project Management),0.3507,3
+Project Management Life Cycle,Project Controls,0.1414,4
+Project Management Life Cycle,Project Documentation,0.1386,5
+Business Ethics,Data Ethics,0.3525,1
+Business Ethics,Business Solutions,0.2915,2
+Business Ethics,Business Correspondence,0.284,3
+Business Ethics,Git (Version Control System),0.0,4
+Business Ethics,Threat Modeling,0.0,5
+Desktop Support,Technical Support,0.3135,1
+Desktop Support,Git (Version Control System),0.0,2
+Desktop Support,Threat Modeling,0.0,3
+Desktop Support,Quality Management,0.0,4
+Desktop Support,Engineering Management,0.0,5
+Figma (Design Software),Solution Design,0.198,1
+Figma (Design Software),Design Reviews,0.1926,2
+Figma (Design Software),Spreadsheet Software,0.171,3
+Figma (Design Software),Tableau Software,0.171,4
+Figma (Design Software),Productivity Software,0.171,5
+Data Science,Data Analysis,0.1908,1
+Data Science,Data Visualization,0.1871,2
+Data Science,Data Security,0.1856,3
+Data Science,Data Quality,0.1767,4
+Data Science,Data Ethics,0.173,5
+Web Services,Cloud Services,0.3317,1
+Web Services,Responsive Web Design,0.2286,2
+Web Services,Web Content Accessibility Guidelines,0.1815,3
+Web Services,Git (Version Control System),0.0,4
+Web Services,Threat Modeling,0.0,5
+AI Personalization,Generative AI,0.2919,1
+AI Personalization,Generative AI Agents,0.2172,2
+AI Personalization,Git (Version Control System),0.0,3
+AI Personalization,Threat Modeling,0.0,4
+AI Personalization,Quality Management,0.0,5
+Data Quality,Quality Management,0.3561,1
+Data Quality,Quality Assessment,0.3265,2
+Data Quality,Data Analysis,0.2009,3
+Data Quality,Data Visualization,0.197,4
+Data Quality,Data Security,0.1955,5
+Social Media Strategy,Social Media Management,0.5715,1
+Social Media Strategy,Social Media Marketing,0.5505,2
+Social Media Strategy,Media Planning,0.2118,3
+Social Media Strategy,Git (Version Control System),0.0,4
+Social Media Strategy,Threat Modeling,0.0,5
+Change Management,Project Management,0.1888,1
+Change Management,Engineering Management,0.1666,2
+Change Management,Configuration Management,0.1635,3
+Change Management,Quality Management,0.1617,4
+Change Management,Threat Management,0.1617,5
+Version Control,Git (Version Control System),0.7441,1
+Version Control,Project Controls,0.3224,2
+Version Control,Threat Modeling,0.0,3
+Version Control,Quality Management,0.0,4
+Version Control,Engineering Management,0.0,5
+Tableau Software,Spreadsheet Software,0.219,1
+Tableau Software,Productivity Software,0.219,2
+Tableau Software,Machine Learning Software,0.1984,3
+Tableau Software,Data Visualization Software,0.1875,4
+Tableau Software,Package and Software Management,0.177,5
+TCP/IP,Git (Version Control System),0.0,1
+TCP/IP,Threat Modeling,0.0,2
+TCP/IP,Quality Management,0.0,3
+TCP/IP,Engineering Management,0.0,4
+TCP/IP,Process Optimization,0.0,5
+Generative AI Agents,Generative AI,0.7441,1
+Generative AI Agents,AI Personalization,0.2172,2
+Generative AI Agents,Git (Version Control System),0.0,3
+Generative AI Agents,Threat Modeling,0.0,4
+Generative AI Agents,Quality Management,0.0,5
+Prompt Engineering,Engineering Management,0.2789,1
+Prompt Engineering,Feature Engineering,0.2429,2
+Prompt Engineering,Search Engine Marketing,0.1974,3
+Prompt Engineering,Search Engine Optimization,0.1922,4
+Prompt Engineering,Git (Version Control System),0.0,5
+Artificial Intelligence,Artificial Intelligence and Machine Learning (AI/ML),0.5863,1
+Artificial Intelligence,Artificial Neural Networks,0.2369,2
+Artificial Intelligence,Cyber Threat Intelligence,0.2362,3
+Artificial Intelligence,Git (Version Control System),0.0,4
+Artificial Intelligence,Threat Modeling,0.0,5
+Vulnerability Management,Vulnerability Assessments,0.3557,1
+Vulnerability Management,Project Management,0.1947,2
+Vulnerability Management,Engineering Management,0.1718,3
+Vulnerability Management,Configuration Management,0.1687,4
+Vulnerability Management,Quality Management,0.1668,5
+Market Opportunities,Marketing,0.4929,1
+Market Opportunities,Email Marketing,0.2429,2
+Market Opportunities,Social Media Marketing,0.2008,3
+Market Opportunities,Search Engine Marketing,0.1974,4
+Market Opportunities,Git (Version Control System),0.0,5
+Puppet (Configuration Management Tool),Configuration Management,0.5849,1
+Puppet (Configuration Management Tool),Project Management,0.1177,2
+Puppet (Configuration Management Tool),Engineering Management,0.1039,3
+Puppet (Configuration Management Tool),Quality Management,0.1008,4
+Puppet (Configuration Management Tool),Threat Management,0.1008,5
+Jupyter,Git (Version Control System),0.0,1
+Jupyter,Threat Modeling,0.0,2
+Jupyter,Quality Management,0.0,3
+Jupyter,Engineering Management,0.0,4
+Jupyter,Process Optimization,0.0,5
+Data Visualization Software,Data Visualization,0.7438,1
+Data Visualization Software,Interactive Data Visualization,0.5214,2
+Data Visualization Software,Spreadsheet Software,0.1875,3
+Data Visualization Software,Tableau Software,0.1875,4
+Data Visualization Software,Productivity Software,0.1875,5
+Descriptive Statistics,Statistical Analysis,0.2798,1
+Descriptive Statistics,Sampling (Statistics),0.2581,2
+Descriptive Statistics,Statistical Hypothesis Testing,0.2022,3
+Descriptive Statistics,Git (Version Control System),0.0,4
+Descriptive Statistics,Threat Modeling,0.0,5
+Statistical Analysis,Analysis,0.5105,1
+Statistical Analysis,Data Analysis,0.2894,2
+Statistical Analysis,Descriptive Statistics,0.2798,3
+Statistical Analysis,Sampling (Statistics),0.2798,4
+Statistical Analysis,Regression Analysis,0.2518,5
+User Story,User Research,0.2651,1
+User Story,User Experience Design,0.2104,2
+User Story,Persona (User Experience),0.2017,3
+User Story,Git (Version Control System),0.0,4
+User Story,Threat Modeling,0.0,5
+Programming Principles,Python Programming,0.2581,1
+Programming Principles,Loyalty Programs,0.2581,2
+Programming Principles,Object Oriented Programming (OOP),0.1637,3
+Programming Principles,Git (Version Control System),0.0,4
+Programming Principles,Threat Modeling,0.0,5
+Sampling (Statistics),Statistical Analysis,0.2798,1
+Sampling (Statistics),Descriptive Statistics,0.2581,2
+Sampling (Statistics),Statistical Hypothesis Testing,0.2022,3
+Sampling (Statistics),Git (Version Control System),0.0,4
+Sampling (Statistics),Threat Modeling,0.0,5
+Email Marketing,Marketing,0.4929,1
+Email Marketing,Market Opportunities,0.2429,2
+Email Marketing,Social Media Marketing,0.2008,3
+Email Marketing,Search Engine Marketing,0.1974,4
+Email Marketing,Git (Version Control System),0.0,5
+Mobile Development,Workforce Development,0.2581,1
+Mobile Development,Professional Development,0.2581,2
+Mobile Development,Cross Platform Development,0.1955,3
+Mobile Development,Git (Version Control System),0.0,4
+Mobile Development,Threat Modeling,0.0,5
+Cloud Security,Cloud Computing,0.3029,1
+Cloud Security,Cloud Infrastructure,0.2952,2
+Cloud Security,Cloud Services,0.2898,3
+Cloud Security,Data Security,0.2664,4
+Cloud Security,Computer Security,0.2601,5
+Media Planning,Project Planning,0.3496,1
+Media Planning,Social Media Management,0.2298,2
+Media Planning,Social Media Marketing,0.2214,3
+Media Planning,Social Media Strategy,0.2118,4
+Media Planning,Git (Version Control System),0.0,5
+Cybersecurity,Git (Version Control System),0.0,1
+Cybersecurity,Threat Modeling,0.0,2
+Cybersecurity,Quality Management,0.0,3
+Cybersecurity,Engineering Management,0.0,4
+Cybersecurity,Process Optimization,0.0,5
+Deep Learning,Machine Learning,0.2242,1
+Deep Learning,Scikit Learn (Machine Learning Library),0.1996,2
+Deep Learning,Supervised Learning,0.1793,3
+Deep Learning,Unsupervised Learning,0.1793,4
+Deep Learning,Reinforcement Learning,0.1793,5
+Responsive Web Design,Incident Response,0.2522,1
+Responsive Web Design,Web Services,0.2286,2
+Responsive Web Design,Solution Design,0.1965,3
+Responsive Web Design,Design Reviews,0.1912,4
+Responsive Web Design,User Experience Design,0.1543,5
+Cross Platform Development,Mobile Development,0.1955,1
+Cross Platform Development,Workforce Development,0.1955,2
+Cross Platform Development,Professional Development,0.1955,3
+Cross Platform Development,Git (Version Control System),0.0,4
+Cross Platform Development,Threat Modeling,0.0,5
+Data Ethics,Business Ethics,0.3525,1
+Data Ethics,Data Analysis,0.1967,2
+Data Ethics,Data Visualization,0.1929,3
+Data Ethics,Data Security,0.1914,4
+Data Ethics,Data Quality,0.1821,5
+Data Cleansing,Data Analysis,0.1908,1
+Data Cleansing,Data Visualization,0.1871,2
+Data Cleansing,Data Security,0.1856,3
+Data Cleansing,Data Quality,0.1767,4
+Data Cleansing,Data Ethics,0.173,5
+Agile Methodology,Agile Project Management,0.2746,1
+Agile Methodology,Git (Version Control System),0.0,2
+Agile Methodology,Threat Modeling,0.0,3
+Agile Methodology,Quality Management,0.0,4
+Agile Methodology,Engineering Management,0.0,5
+Loyalty Programs,Python Programming,0.2581,1
+Loyalty Programs,Programming Principles,0.2581,2
+Loyalty Programs,Object Oriented Programming (OOP),0.1637,3
+Loyalty Programs,Git (Version Control System),0.0,4
+Loyalty Programs,Threat Modeling,0.0,5
+Emerging Technologies,Git (Version Control System),0.0,1
+Emerging Technologies,Threat Modeling,0.0,2
+Emerging Technologies,Quality Management,0.0,3
+Emerging Technologies,Engineering Management,0.0,4
+Emerging Technologies,Process Optimization,0.0,5
+Design Reviews,Solution Design,0.2497,1
+Design Reviews,User Experience Design,0.1961,2
+Design Reviews,Figma (Design Software),0.1926,3
+Design Reviews,Responsive Web Design,0.1912,4
+Design Reviews,Git (Version Control System),0.0,5
+Scripting,Bash (Scripting Language),0.4266,1
+Scripting,Git (Version Control System),0.0,2
+Scripting,Threat Modeling,0.0,3
+Scripting,Quality Management,0.0,4
+Scripting,Engineering Management,0.0,5
+Productivity Software,Spreadsheet Software,0.219,1
+Productivity Software,Tableau Software,0.219,2
+Productivity Software,Machine Learning Software,0.1984,3
+Productivity Software,Data Visualization Software,0.1875,4
+Productivity Software,Package and Software Management,0.177,5
+Performance Measurement,Git (Version Control System),0.0,1
+Performance Measurement,Threat Modeling,0.0,2
+Performance Measurement,Quality Management,0.0,3
+Performance Measurement,Engineering Management,0.0,4
+Performance Measurement,Process Optimization,0.0,5
+A/B Testing,Usability Testing,0.2651,1
+A/B Testing,Unit Testing,0.2581,2
+A/B Testing,Statistical Hypothesis Testing,0.2022,3
+A/B Testing,Git (Version Control System),0.0,4
+A/B Testing,Threat Modeling,0.0,5
+Automation,Git (Version Control System),0.0,1
+Automation,Threat Modeling,0.0,2
+Automation,Quality Management,0.0,3
+Automation,Engineering Management,0.0,4
+Automation,Process Optimization,0.0,5
+Systems Administration,Git (Version Control System),0.0,1
+Systems Administration,Threat Modeling,0.0,2
+Systems Administration,Quality Management,0.0,3
+Systems Administration,Engineering Management,0.0,4
+Systems Administration,Process Optimization,0.0,5
+Cloud Services,Web Services,0.3317,1
+Cloud Services,Cloud Security,0.2898,2
+Cloud Services,Cloud Computing,0.2847,3
+Cloud Services,Cloud Infrastructure,0.2775,4
+Cloud Services,Git (Version Control System),0.0,5
+Workforce Development,Mobile Development,0.2581,1
+Workforce Development,Professional Development,0.2581,2
+Workforce Development,Cross Platform Development,0.1955,3
+Workforce Development,Git (Version Control System),0.0,4
+Workforce Development,Threat Modeling,0.0,5
+Supervised Learning,Machine Learning,0.2242,1
+Supervised Learning,Scikit Learn (Machine Learning Library),0.1996,2
+Supervised Learning,Deep Learning,0.1793,3
+Supervised Learning,Unsupervised Learning,0.1793,4
+Supervised Learning,Reinforcement Learning,0.1793,5
+Data Literacy,Data Analysis,0.1908,1
+Data Literacy,Data Visualization,0.1871,2
+Data Literacy,Data Security,0.1856,3
+Data Literacy,Data Quality,0.1767,4
+Data Literacy,Data Ethics,0.173,5
+Machine Learning Methods,Machine Learning,0.6618,1
+Machine Learning Methods,Machine Learning Software,0.4678,2
+Machine Learning Methods,Machine Learning Algorithms,0.447,3
+Machine Learning Methods,Applied Machine Learning,0.438,4
+Machine Learning Methods,Scikit Learn (Machine Learning Library),0.3771,5
+Stakeholder Communications,Technical Communication,0.3135,1
+Stakeholder Communications,Git (Version Control System),0.0,2
+Stakeholder Communications,Threat Modeling,0.0,3
+Stakeholder Communications,Quality Management,0.0,4
+Stakeholder Communications,Engineering Management,0.0,5
+Campaign Management,Project Management,0.1888,1
+Campaign Management,Engineering Management,0.1666,2
+Campaign Management,Configuration Management,0.1635,3
+Campaign Management,Quality Management,0.1617,4
+Campaign Management,Threat Management,0.1617,5
+Project Scoping,Project Management,0.2541,1
+Project Scoping,Project Controls,0.2108,2
+Project Scoping,Project Documentation,0.2066,3
+Project Scoping,Project Planning,0.2066,4
+Project Scoping,Project Closure,0.2006,5
+Advanced Analytics,Git (Version Control System),0.0,1
+Advanced Analytics,Threat Modeling,0.0,2
+Advanced Analytics,Quality Management,0.0,3
+Advanced Analytics,Engineering Management,0.0,4
+Advanced Analytics,Process Optimization,0.0,5
+Report Writing,Technical Writing,0.3135,1
+Report Writing,Git (Version Control System),0.0,2
+Report Writing,Threat Modeling,0.0,3
+Report Writing,Quality Management,0.0,4
+Report Writing,Engineering Management,0.0,5
+Computer Security Incident Management,Computer Security,0.6247,1
+Computer Security Incident Management,Incident Response,0.2266,2
+Computer Security Incident Management,Computer Networking,0.1866,3
+Computer Security Incident Management,Cloud Computing,0.1826,4
+Computer Security Incident Management,Data Security,0.1741,5
+Project Documentation,Document Management,0.3749,1
+Project Documentation,Project Management,0.2616,2
+Project Documentation,Project Controls,0.217,3
+Project Documentation,Project Planning,0.2127,4
+Project Documentation,Project Scoping,0.2066,5
+Web Content Accessibility Guidelines,Web Services,0.1815,1
+Web Content Accessibility Guidelines,Responsive Web Design,0.1424,2
+Web Content Accessibility Guidelines,Git (Version Control System),0.0,3
+Web Content Accessibility Guidelines,Threat Modeling,0.0,4
+Web Content Accessibility Guidelines,Quality Management,0.0,5
+Infrastructure as Code (IaC),IT Infrastructure,0.4006,1
+Infrastructure as Code (IaC),Cloud Infrastructure,0.2233,2
+Infrastructure as Code (IaC),Git (Version Control System),0.0,3
+Infrastructure as Code (IaC),Threat Modeling,0.0,4
+Infrastructure as Code (IaC),Quality Management,0.0,5
+Agile Project Management,Project Management,0.6755,1
+Agile Project Management,Milestones (Project Management),0.4472,2
+Agile Project Management,Project Management Life Cycle,0.3578,3
+Agile Project Management,Agile Methodology,0.2746,4
+Agile Project Management,Project Controls,0.1803,5
+Cloud Computing,Cloud Security,0.3029,1
+Cloud Computing,Computer Security,0.2923,2
+Cloud Computing,Cloud Infrastructure,0.2901,3
+Cloud Computing,Cloud Services,0.2847,4
+Cloud Computing,Computer Networking,0.2805,5
+Technical Communication,Stakeholder Communications,0.3135,1
+Technical Communication,Technical Support,0.2915,2
+Technical Communication,Technical Writing,0.2915,3
+Technical Communication,Git (Version Control System),0.0,4
+Technical Communication,Threat Modeling,0.0,5
+Unit Testing,Usability Testing,0.2651,1
+Unit Testing,A/B Testing,0.2581,2
+Unit Testing,Statistical Hypothesis Testing,0.2022,3
+Unit Testing,Git (Version Control System),0.0,4
+Unit Testing,Threat Modeling,0.0,5
+Customer Retention,Git (Version Control System),0.0,1
+Customer Retention,Threat Modeling,0.0,2
+Customer Retention,Quality Management,0.0,3
+Customer Retention,Engineering Management,0.0,4
+Customer Retention,Process Optimization,0.0,5
+Application Security,Applicant Tracking Systems,0.3265,1
+Application Security,Data Security,0.2573,2
+Application Security,Computer Security,0.2512,3
+Application Security,Network Security,0.2454,4
+Application Security,Cloud Security,0.2401,5
+Strategic Thinking,Critical Thinking,0.3003,1
+Strategic Thinking,Git (Version Control System),0.0,2
+Strategic Thinking,Threat Modeling,0.0,3
+Strategic Thinking,Quality Management,0.0,4
+Strategic Thinking,Engineering Management,0.0,5
+Configuration Management,Puppet (Configuration Management Tool),0.5849,1
+Configuration Management,Project Management,0.2013,2
+Configuration Management,Engineering Management,0.1776,3
+Configuration Management,Quality Management,0.1724,4
+Configuration Management,Threat Management,0.1724,5
+SQL,Git (Version Control System),0.0,1
+SQL,Threat Modeling,0.0,2
+SQL,Quality Management,0.0,3
+SQL,Engineering Management,0.0,4
+SQL,Process Optimization,0.0,5
+Unsupervised Learning,Machine Learning,0.2242,1
+Unsupervised Learning,Scikit Learn (Machine Learning Library),0.1996,2
+Unsupervised Learning,Deep Learning,0.1793,3
+Unsupervised Learning,Supervised Learning,0.1793,4
+Unsupervised Learning,Reinforcement Learning,0.1793,5
+Needs Assessment,Quality Assessment,0.2892,1
+Needs Assessment,Vulnerability Assessments,0.284,2
+Needs Assessment,Git (Version Control System),0.0,3
+Needs Assessment,Threat Modeling,0.0,4
+Needs Assessment,Quality Management,0.0,5
+Innovation,Git (Version Control System),0.0,1
+Innovation,Threat Modeling,0.0,2
+Innovation,Quality Management,0.0,3
+Innovation,Engineering Management,0.0,4
+Innovation,Process Optimization,0.0,5
+Computer Hardware,Computer Security,0.275,1
+Computer Hardware,Computer Networking,0.2638,2
+Computer Hardware,Cloud Computing,0.2582,3
+Computer Hardware,Computer Security Incident Management,0.1718,4
+Computer Hardware,Git (Version Control System),0.0,5
+Interviewing Skills,Git (Version Control System),0.0,1
+Interviewing Skills,Threat Modeling,0.0,2
+Interviewing Skills,Quality Management,0.0,3
+Interviewing Skills,Engineering Management,0.0,4
+Interviewing Skills,Process Optimization,0.0,5
+Business Solutions,Solution Design,0.3352,1
+Business Solutions,Business Ethics,0.2915,2
+Business Solutions,Business Correspondence,0.284,3
+Business Solutions,Git (Version Control System),0.0,4
+Business Solutions,Threat Modeling,0.0,5
+Linux,Git (Version Control System),0.0,1
+Linux,Threat Modeling,0.0,2
+Linux,Quality Management,0.0,3
+Linux,Engineering Management,0.0,4
+Linux,Process Optimization,0.0,5
+Reinforcement Learning,Machine Learning,0.2242,1
+Reinforcement Learning,Scikit Learn (Machine Learning Library),0.1996,2
+Reinforcement Learning,Deep Learning,0.1793,3
+Reinforcement Learning,Supervised Learning,0.1793,4
+Reinforcement Learning,Unsupervised Learning,0.1793,5
+Random Forest Algorithm,Machine Learning Algorithms,0.2107,1
+Random Forest Algorithm,Git (Version Control System),0.0,2
+Random Forest Algorithm,Threat Modeling,0.0,3
+Random Forest Algorithm,Quality Management,0.0,4
+Random Forest Algorithm,Engineering Management,0.0,5
+Project Planning,Media Planning,0.3496,1
+Project Planning,Project Management,0.2616,2
+Project Planning,Project Controls,0.217,3
+Project Planning,Project Documentation,0.2127,4
+Project Planning,Project Scoping,0.2066,5
+Digital Transformation,Git (Version Control System),0.0,1
+Digital Transformation,Threat Modeling,0.0,2
+Digital Transformation,Quality Management,0.0,3
+Digital Transformation,Engineering Management,0.0,4
+Digital Transformation,Process Optimization,0.0,5
+Order Fulfillment,Git (Version Control System),0.0,1
+Order Fulfillment,Threat Modeling,0.0,2
+Order Fulfillment,Quality Management,0.0,3
+Order Fulfillment,Engineering Management,0.0,4
+Order Fulfillment,Process Optimization,0.0,5
+Machine Learning,Machine Learning Software,0.7069,1
+Machine Learning,Machine Learning Algorithms,0.6754,2
+Machine Learning,Machine Learning Methods,0.6618,3
+Machine Learning,Applied Machine Learning,0.6618,4
+Machine Learning,Scikit Learn (Machine Learning Library),0.5698,5
+Vulnerability Assessments,Vulnerability Management,0.3557,1
+Vulnerability Assessments,Quality Assessment,0.2969,2
+Vulnerability Assessments,Needs Assessment,0.284,3
+Vulnerability Assessments,Git (Version Control System),0.0,4
+Vulnerability Assessments,Threat Modeling,0.0,5
+Persona (User Experience),User Experience Design,0.5704,1
+Persona (User Experience),User Research,0.2072,2
+Persona (User Experience),User Story,0.2017,3
+Persona (User Experience),Git (Version Control System),0.0,4
+Persona (User Experience),Threat Modeling,0.0,5
+Regression Analysis,Analysis,0.4933,1
+Regression Analysis,Data Analysis,0.2797,2
+Regression Analysis,Statistical Analysis,0.2518,3
+Regression Analysis,Requirements Analysis,0.2366,4
+Regression Analysis,Classification And Regression Tree (CART),0.2114,5
+Incident Response,Responsive Web Design,0.2522,1
+Incident Response,Computer Security Incident Management,0.2266,2
+Incident Response,Git (Version Control System),0.0,3
+Incident Response,Threat Modeling,0.0,4
+Incident Response,Quality Management,0.0,5
+Intrusion Detection and Prevention,Git (Version Control System),0.0,1
+Intrusion Detection and Prevention,Threat Modeling,0.0,2
+Intrusion Detection and Prevention,Quality Management,0.0,3
+Intrusion Detection and Prevention,Engineering Management,0.0,4
+Intrusion Detection and Prevention,Process Optimization,0.0,5
+Operational Efficiency,Git (Version Control System),0.0,1
+Operational Efficiency,Threat Modeling,0.0,2
+Operational Efficiency,Quality Management,0.0,3
+Operational Efficiency,Engineering Management,0.0,4
+Operational Efficiency,Process Optimization,0.0,5
+Tensorflow,Git (Version Control System),0.0,1
+Tensorflow,Threat Modeling,0.0,2
+Tensorflow,Quality Management,0.0,3
+Tensorflow,Engineering Management,0.0,4
+Tensorflow,Process Optimization,0.0,5
+Usability,Usability Testing,0.5798,1
+Usability,Git (Version Control System),0.0,2
+Usability,Threat Modeling,0.0,3
+Usability,Quality Management,0.0,4
+Usability,Engineering Management,0.0,5
+Milestones (Project Management),Project Management,0.662,1
+Milestones (Project Management),Agile Project Management,0.4472,2
+Milestones (Project Management),Project Management Life Cycle,0.3507,3
+Milestones (Project Management),Project Controls,0.1767,4
+Milestones (Project Management),Project Documentation,0.1732,5
+Project Management,Agile Project Management,0.6755,1
+Project Management,Milestones (Project Management),0.662,2
+Project Management,Project Management Life Cycle,0.5297,3
+Project Management,Project Controls,0.267,4
+Project Management,Project Documentation,0.2616,5
+Network Troubleshooting,Network Security,0.2524,1
+Network Troubleshooting,Computer Networking,0.2478,2
+Network Troubleshooting,Network Architecture,0.2366,3
+Network Troubleshooting,Network Protocols,0.2301,4
+Network Troubleshooting,Artificial Neural Networks,0.1776,5
+Project Closure,Project Management,0.2541,1
+Project Closure,Project Controls,0.2108,2
+Project Closure,Project Documentation,0.2066,3
+Project Closure,Project Planning,0.2066,4
+Project Closure,Project Scoping,0.2006,5
+Document Management,Project Documentation,0.3749,1
+Document Management,Project Management,0.1947,2
+Document Management,Engineering Management,0.1718,3
+Document Management,Configuration Management,0.1687,4
+Document Management,Quality Management,0.1668,5
+Predictive Modeling,Threat Modeling,0.2892,1
+Predictive Modeling,Large Language Modeling,0.2139,2
+Predictive Modeling,Git (Version Control System),0.0,3
+Predictive Modeling,Quality Management,0.0,4
+Predictive Modeling,Engineering Management,0.0,5
+CI/CD,Git (Version Control System),0.0,1
+CI/CD,Threat Modeling,0.0,2
+CI/CD,Quality Management,0.0,3
+CI/CD,Engineering Management,0.0,4
+CI/CD,Process Optimization,0.0,5
+Graphing,Git (Version Control System),0.0,1
+Graphing,Threat Modeling,0.0,2
+Graphing,Quality Management,0.0,3
+Graphing,Engineering Management,0.0,4
+Graphing,Process Optimization,0.0,5
+Feature Engineering,Engineering Management,0.2789,1
+Feature Engineering,Prompt Engineering,0.2429,2
+Feature Engineering,Search Engine Marketing,0.1974,3
+Feature Engineering,Search Engine Optimization,0.1922,4
+Feature Engineering,Git (Version Control System),0.0,5
+Exploratory Data Analysis,Data Analysis,0.6941,1
+Exploratory Data Analysis,Analysis,0.3935,2
+Exploratory Data Analysis,Statistical Analysis,0.2009,3
+Exploratory Data Analysis,Regression Analysis,0.1941,4
+Exploratory Data Analysis,Requirements Analysis,0.1888,5
+Storyboarding,Git (Version Control System),0.0,1
+Storyboarding,Threat Modeling,0.0,2
+Storyboarding,Quality Management,0.0,3
+Storyboarding,Engineering Management,0.0,4
+Storyboarding,Process Optimization,0.0,5
+Marketing,Market Opportunities,0.4929,1
+Marketing,Email Marketing,0.4929,2
+Marketing,Social Media Marketing,0.4074,3
+Marketing,Search Engine Marketing,0.4005,4
+Marketing,Git (Version Control System),0.0,5
+Scikit Learn (Machine Learning Library),Machine Learning,0.5698,1
+Scikit Learn (Machine Learning Library),Machine Learning Software,0.4028,2
+Scikit Learn (Machine Learning Library),Machine Learning Algorithms,0.3848,3
+Scikit Learn (Machine Learning Library),Applied Machine Learning,0.3771,4
+Scikit Learn (Machine Learning Library),Machine Learning Methods,0.3771,5
+Search Engine Marketing,Search Engine Optimization,0.5743,1
+Search Engine Marketing,Marketing,0.4005,2
+Search Engine Marketing,Engineering Management,0.2266,3
+Search Engine Marketing,Prompt Engineering,0.1974,4
+Search Engine Marketing,Market Opportunities,0.1974,5
+Wireframing,Git (Version Control System),0.0,1
+Wireframing,Threat Modeling,0.0,2
+Wireframing,Quality Management,0.0,3
+Wireframing,Engineering Management,0.0,4
+Wireframing,Process Optimization,0.0,5
+File Systems,Git (Version Control System),0.0,1
+File Systems,Threat Modeling,0.0,2
+File Systems,Quality Management,0.0,3
+File Systems,Engineering Management,0.0,4
+File Systems,Process Optimization,0.0,5
+Requirements Analysis,Analysis,0.4797,1
+Requirements Analysis,Data Analysis,0.272,2
+Requirements Analysis,Statistical Analysis,0.2449,3
+Requirements Analysis,Regression Analysis,0.2366,4
+Requirements Analysis,Exploratory Data Analysis,0.1888,5
+Google Ads,Git (Version Control System),0.0,1
+Google Ads,Threat Modeling,0.0,2
+Google Ads,Quality Management,0.0,3
+Google Ads,Engineering Management,0.0,4
+Google Ads,Process Optimization,0.0,5
+Search Engine Optimization,Search Engine Marketing,0.5743,1
+Search Engine Optimization,Process Optimization,0.2536,2
+Search Engine Optimization,Engineering Management,0.2207,3
+Search Engine Optimization,Prompt Engineering,0.1922,4
+Search Engine Optimization,Feature Engineering,0.1922,5
+Technical Support,Desktop Support,0.3135,1
+Technical Support,Technical Communication,0.2915,2
+Technical Support,Technical Writing,0.2915,3
+Technical Support,Git (Version Control System),0.0,4
+Technical Support,Threat Modeling,0.0,5
+NumPy,Git (Version Control System),0.0,1
+NumPy,Threat Modeling,0.0,2
+NumPy,Quality Management,0.0,3
+NumPy,Engineering Management,0.0,4
+NumPy,Process Optimization,0.0,5
+Decision Tree Learning,Machine Learning,0.1689,1
+Decision Tree Learning,Classification And Regression Tree (CART),0.1598,2
+Decision Tree Learning,Scikit Learn (Machine Learning Library),0.1503,3
+Decision Tree Learning,Deep Learning,0.1351,4
+Decision Tree Learning,Supervised Learning,0.1351,5
+Cyber Attacks,Cyber Threat Intelligence,0.2424,1
+Cyber Attacks,Git (Version Control System),0.0,2
+Cyber Attacks,Threat Modeling,0.0,3
+Cyber Attacks,Quality Management,0.0,4
+Cyber Attacks,Engineering Management,0.0,5
+Social Media Marketing,Social Media Management,0.5974,1
+Social Media Marketing,Social Media Strategy,0.5505,2
+Social Media Marketing,Marketing,0.4074,3
+Social Media Marketing,Media Planning,0.2214,4
+Social Media Marketing,Market Opportunities,0.2008,5
+Presentations,Data Presentation,0.6161,1
+Presentations,Git (Version Control System),0.0,2
+Presentations,Threat Modeling,0.0,3
+Presentations,Quality Management,0.0,4
+Presentations,Engineering Management,0.0,5
+Ideation,Git (Version Control System),0.0,1
+Ideation,Threat Modeling,0.0,2
+Ideation,Quality Management,0.0,3
+Ideation,Engineering Management,0.0,4
+Ideation,Process Optimization,0.0,5
+Technical Writing,Report Writing,0.3135,1
+Technical Writing,Technical Communication,0.2915,2
+Technical Writing,Technical Support,0.2915,3
+Technical Writing,Git (Version Control System),0.0,4
+Technical Writing,Threat Modeling,0.0,5
+Data Presentation,Presentations,0.6161,1
+Data Presentation,Data Analysis,0.1967,2
+Data Presentation,Data Visualization,0.1929,3
+Data Presentation,Data Security,0.1914,4
+Data Presentation,Data Quality,0.1821,5
+Social Media Management,Social Media Marketing,0.5974,1
+Social Media Management,Social Media Strategy,0.5715,2
+Social Media Management,Media Planning,0.2298,3
+Social Media Management,Project Management,0.1532,4
+Social Media Management,Engineering Management,0.1352,5
+UI/UX Research,User Research,0.3177,1
+UI/UX Research,Git (Version Control System),0.0,2
+UI/UX Research,Threat Modeling,0.0,3
+UI/UX Research,Quality Management,0.0,4
+UI/UX Research,Engineering Management,0.0,5
+Critical Thinking,Strategic Thinking,0.3003,1
+Critical Thinking,Git (Version Control System),0.0,2
+Critical Thinking,Threat Modeling,0.0,3
+Critical Thinking,Quality Management,0.0,4
+Critical Thinking,Engineering Management,0.0,5
+Project Controls,Version Control,0.3224,1
+Project Controls,Project Management,0.267,2
+Project Controls,Git (Version Control System),0.2399,3
+Project Controls,Project Documentation,0.217,4
+Project Controls,Project Planning,0.217,5
+Statistical Hypothesis Testing,Statistical Analysis,0.2192,1
+Statistical Hypothesis Testing,Usability Testing,0.2077,2
+Statistical Hypothesis Testing,Descriptive Statistics,0.2022,3
+Statistical Hypothesis Testing,Sampling (Statistics),0.2022,4
+Statistical Hypothesis Testing,A/B Testing,0.2022,5
+Package and Software Management,Spreadsheet Software,0.177,1
+Package and Software Management,Tableau Software,0.177,2
+Package and Software Management,Productivity Software,0.177,3
+Package and Software Management,Machine Learning Software,0.1603,4
+Package and Software Management,Data Visualization Software,0.1515,5
+Machine Learning Algorithms,Machine Learning,0.6754,1
+Machine Learning Algorithms,Machine Learning Software,0.4774,2
+Machine Learning Algorithms,Applied Machine Learning,0.447,3
+Machine Learning Algorithms,Machine Learning Methods,0.447,4
+Machine Learning Algorithms,Scikit Learn (Machine Learning Library),0.3848,5
+Large Language Modeling,Threat Modeling,0.2236,1
+Large Language Modeling,Predictive Modeling,0.2139,2
+Large Language Modeling,Bash (Scripting Language),0.1838,3
+Large Language Modeling,Git (Version Control System),0.0,4
+Large Language Modeling,Quality Management,0.0,5
+Usability Testing,Usability,0.5798,1
+Usability Testing,A/B Testing,0.2651,2
+Usability Testing,Unit Testing,0.2651,3
+Usability Testing,Statistical Hypothesis Testing,0.2077,4
+Usability Testing,Git (Version Control System),0.0,5
+Data Storytelling,Data Analysis,0.1908,1
+Data Storytelling,Data Visualization,0.1871,2
+Data Storytelling,Data Security,0.1856,3
+Data Storytelling,Data Quality,0.1767,4
+Data Storytelling,Data Ethics,0.173,5
+Information Systems Security,Information Architecture,0.3348,1
+Information Systems Security,Data Security,0.2573,2
+Information Systems Security,Computer Security,0.2512,3
+Information Systems Security,Network Security,0.2454,4
+Information Systems Security,Cloud Security,0.2401,5
+User Experience Design,Persona (User Experience),0.5704,1
+User Experience Design,User Research,0.2162,2
+User Experience Design,User Story,0.2104,3
+User Experience Design,Solution Design,0.2015,4
+User Experience Design,Design Reviews,0.1961,5
+Applicant Tracking Systems,Application Security,0.3265,1
+Applicant Tracking Systems,Git (Version Control System),0.0,2
+Applicant Tracking Systems,Threat Modeling,0.0,3
+Applicant Tracking Systems,Quality Management,0.0,4
+Applicant Tracking Systems,Engineering Management,0.0,5
+Analysis,Data Analysis,0.5669,1
+Analysis,Statistical Analysis,0.5105,2
+Analysis,Regression Analysis,0.4933,3
+Analysis,Requirements Analysis,0.4797,4
+Analysis,Exploratory Data Analysis,0.3935,5
+Ggplot2,Git (Version Control System),0.0,1
+Ggplot2,Threat Modeling,0.0,2
+Ggplot2,Quality Management,0.0,3
+Ggplot2,Engineering Management,0.0,4
+Ggplot2,Process Optimization,0.0,5
+Computer Networking,Computer Security,0.2987,1
+Computer Networking,Cloud Computing,0.2805,2
+Computer Networking,Network Security,0.2719,3
+Computer Networking,Computer Hardware,0.2638,4
+Computer Networking,Network Architecture,0.2549,5
+User Research,UI/UX Research,0.3177,1
+User Research,User Story,0.2651,2
+User Research,User Experience Design,0.2162,3
+User Research,Persona (User Experience),0.2072,4
+User Research,Git (Version Control System),0.0,5
+Professional Development,Mobile Development,0.2581,1
+Professional Development,Workforce Development,0.2581,2
+Professional Development,Cross Platform Development,0.1955,3
+Professional Development,Git (Version Control System),0.0,4
+Professional Development,Threat Modeling,0.0,5
+Team Building,Team Management,0.3407,1
+Team Building,Git (Version Control System),0.0,2
+Team Building,Threat Modeling,0.0,3
+Team Building,Quality Management,0.0,4
+Team Building,Engineering Management,0.0,5
+Threat Management,Threat Modeling,0.3297,1
+Threat Management,Cyber Threat Intelligence,0.2503,2
+Threat Management,Project Management,0.199,3
+Threat Management,Engineering Management,0.1756,4
+Threat Management,Configuration Management,0.1724,5
+Object Oriented Programming (OOP),Python Programming,0.1637,1
+Object Oriented Programming (OOP),Programming Principles,0.1637,2
+Object Oriented Programming (OOP),Loyalty Programs,0.1637,3
+Object Oriented Programming (OOP),Git (Version Control System),0.0,4
+Object Oriented Programming (OOP),Threat Modeling,0.0,5
+Hardening,Git (Version Control System),0.0,1
+Hardening,Threat Modeling,0.0,2
+Hardening,Quality Management,0.0,3
+Hardening,Engineering Management,0.0,4
+Hardening,Process Optimization,0.0,5
+Data Visualization,Data Visualization Software,0.7438,1
+Data Visualization,Interactive Data Visualization,0.701,2
+Data Visualization,Data Analysis,0.2128,3
+Data Visualization,Data Security,0.207,4
+Data Visualization,Data Quality,0.197,5
+Cloud Infrastructure,IT Infrastructure,0.5575,1
+Cloud Infrastructure,Cloud Security,0.2952,2
+Cloud Infrastructure,Cloud Computing,0.2901,3
+Cloud Infrastructure,Cloud Services,0.2775,4
+Cloud Infrastructure,Infrastructure as Code (IaC),0.2233,5
